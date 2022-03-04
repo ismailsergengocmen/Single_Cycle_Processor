@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Dec 26 13:45:31 2020
+# Process ID: 4380
+# Current directory: D:/Computer Science/CS/CS223/Project/Code/Project/Project.runs/impl_1
+# Command line: vivado.exe -log SingleCycleProcessor.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source SingleCycleProcessor.tcl -notrace
+# Log file: D:/Computer Science/CS/CS223/Project/Code/Project/Project.runs/impl_1/SingleCycleProcessor.vdi
+# Journal file: D:/Computer Science/CS/CS223/Project/Code/Project/Project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source SingleCycleProcessor.tcl -notrace

@@ -1,0 +1,36 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Uygulamalar/Vivado/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 93f14ff6e0704191b6ba1bc25be437be --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TestSingleCycleProcessor_behav xil_defaultlib.TestSingleCycleProcessor xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 4 for port 'Op' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:100]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'i0' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:104]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 1 for port 'i1' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:105]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'address' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:108]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'ALUOp' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:118]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 4 for port 'in2' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:127]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 5 for port 'i1' [D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv:106]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.debounce
+Compiling module xil_defaultlib.Controller
+Compiling module xil_defaultlib.OneBit2to1Mul
+Compiling module xil_defaultlib.FiveBit2to1Mul
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.InstructionMemory
+Compiling module xil_defaultlib.SixteenBit2to1Mul
+Compiling module xil_defaultlib.FourBit4to1Mul
+Compiling module xil_defaultlib.EightBit4to1Mul
+Compiling module xil_defaultlib.RegisterFile
+Compiling module xil_defaultlib.ArithmeticLogicUnit
+Compiling module xil_defaultlib.FourBit2to1Mul
+Compiling module xil_defaultlib.EightBit2to1Mul
+Compiling module xil_defaultlib.DataMemory
+Compiling module xil_defaultlib.SevSeg_4digit
+Compiling module xil_defaultlib.SingleCycleProcessor
+Compiling module xil_defaultlib.TestSingleCycleProcessor
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TestSingleCycleProcessor_behav

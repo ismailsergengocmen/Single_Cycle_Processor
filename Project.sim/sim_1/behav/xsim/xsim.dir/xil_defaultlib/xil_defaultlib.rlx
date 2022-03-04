@@ -1,0 +1,27 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestArithmeticLogicUnit.sv,1608868001,systemVerilog,,,,TestArithmeticLogicUnit,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestEightBit4to1Mul.sv,1608864962,systemVerilog,,,,TestEightBit4to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestFiveBit2to1Mul.sv,1608868863,systemVerilog,,,,TestFiveBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestFourBit4to1Mul.sv,1608864950,systemVerilog,,,,TestFourBit4to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestSingleCycleProcessor.sv,1608913967,systemVerilog,,,,TestSingleCycleProcessor,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestSixteenBit2to1Mul.sv,1608865613,systemVerilog,,,,TestSixteenBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/Adder.sv,1608971272,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/ArithmeticLogicUnit.sv,,Adder,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/ArithmeticLogicUnit.sv,1608867898,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/Controller.sv,,ArithmeticLogicUnit,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/Controller.sv,1608903082,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/EightBit2to1Mul.sv,,Controller,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/EightBit2to1Mul.sv,1608865977,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/EightBit4to1Mul.sv,,EightBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/EightBit4to1Mul.sv,1608865066,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FiveBit2to1Mul.sv,,EightBit4to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FiveBit2to1Mul.sv,1608865984,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FourBit2to1Mul.sv,,FiveBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FourBit2to1Mul.sv,1608723204,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FourBit4to1Mul.sv,,FourBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/FourBit4to1Mul.sv,1608723665,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/InstructionMemory.sv,,FourBit4to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/InstructionMemory.sv,1608896274,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/OneBit2to1Mul.sv,,InstructionMemory,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/OneBit2to1Mul.sv,1608724276,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/RegisterFile.sv,,OneBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/RegisterFile.sv,1608968849,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SevSeg_4digit.sv,,RegisterFile,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SevSeg_4digit.sv,1608548201,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv,,SevSeg_4digit,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SingleCycleProcessor.sv,1608975058,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SixteenBit2to1Mul.sv,,SingleCycleProcessor,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/SixteenBit2to1Mul.sv,1608865938,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/dataMemory.sv,,SixteenBit2to1Mul,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/dataMemory.sv,1608852998,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/debounce.sv,,DataMemory,,,,,,,,
+D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sources_1/new/debounce.sv,1608853020,systemVerilog,,D:/Computer Science/CS/CS223/Project/Code/Project/Project.srcs/sim_1/new/TestSingleCycleProcessor.sv,,debounce,,,,,,,,
